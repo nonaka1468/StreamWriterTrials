@@ -7,15 +7,25 @@
 string desktopPath = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
 string filePath = Path.Combine(desktopPath, "output.txt");
 
-using (var writer = new StreamWriter(filePath))
+try
 {
-    foreach (var array in list)
+    using (var writer = new StreamWriter(filePath))
     {
-        foreach (var line in array)
+        foreach (var array in list)
         {
-            writer.WriteLine(line);
+            foreach (var line in array)
+            {
+                writer.WriteLine(line);
+            }
         }
     }
+}catch(Exception e)
+{
+    Console.WriteLine("例外が発生しました。詳細は以下のメッセージを参照してください。");
+    Console.WriteLine(e.Message);
+    Console.WriteLine("終了するにはエンターキーを押してください。");
+    Console.ReadLine();
+    return;
 }
 
 Console.WriteLine("ファイルがデスクトップに出力されました。");
