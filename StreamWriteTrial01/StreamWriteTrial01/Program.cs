@@ -19,3 +19,5 @@ using (var writer = new StreamWriter(filePath))
 }
 
 Console.WriteLine("ファイルがデスクトップに出力されました。");
+Console.WriteLine("終了するにはエンターキーを押してください。");
+Console.ReadLine();
