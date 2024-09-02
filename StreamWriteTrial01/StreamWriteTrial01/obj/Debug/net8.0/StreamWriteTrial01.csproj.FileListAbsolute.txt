@@ -1,0 +1,14 @@
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\bin\Debug\net8.0\StreamWriteTrial01.exe
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\bin\Debug\net8.0\StreamWriteTrial01.deps.json
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\bin\Debug\net8.0\StreamWriteTrial01.runtimeconfig.json
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\bin\Debug\net8.0\StreamWriteTrial01.dll
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\bin\Debug\net8.0\StreamWriteTrial01.pdb
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\obj\Debug\net8.0\StreamWriteTrial01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\obj\Debug\net8.0\StreamWriteTrial01.AssemblyInfoInputs.cache
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\obj\Debug\net8.0\StreamWriteTrial01.AssemblyInfo.cs
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\obj\Debug\net8.0\StreamWriteTrial01.csproj.CoreCompileInputs.cache
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\obj\Debug\net8.0\StreamWriteTrial01.dll
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\obj\Debug\net8.0\refint\StreamWriteTrial01.dll
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\obj\Debug\net8.0\StreamWriteTrial01.pdb
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\obj\Debug\net8.0\StreamWriteTrial01.genruntimeconfig.cache
+C:\Users\nonakayu\source\repos\StreamWriteTrial01\StreamWriteTrial01\obj\Debug\net8.0\ref\StreamWriteTrial01.dll

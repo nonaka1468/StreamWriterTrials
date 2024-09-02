@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "StreamWriteTrial01/1.0.0": {
+        "runtime": {
+          "StreamWriteTrial01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamWriteTrial01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
