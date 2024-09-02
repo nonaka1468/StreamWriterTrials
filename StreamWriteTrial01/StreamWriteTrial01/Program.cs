@@ -28,6 +28,6 @@ try
     return;
 }
 
-Console.WriteLine("ファイルがデスクトップに出力されました。");
+Console.WriteLine("ファイルがデスクトップに出力されました。ファイル名: " + filePath);
 Console.WriteLine("終了するにはエンターキーを押してください。");
 Console.ReadLine();
